@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joy\.android\build-cache\6fc207c684914df9d2e4aba8b0c5872f4f0e85a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\murach\android2\book_apps\ch18_RunTracker\app\build\intermediates\pre-dexed\debug\classes_f1547735e269aa93e204c65cde596f3c3fc3e2f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joy\.android\build-cache\72e6b2c6ff8a5dc6892bb841eee563580d0864e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\murach\android2\book_apps\ch18_RunTracker\app\build\intermediates\pre-dexed\debug\classes_b76b321160318be3fdcf936d00d0ae740a1c6f14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joy\.android\build-cache\fba6540a97df2352f54536b3c9ea92f28171e7ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\murach\android2\book_apps\ch18_RunTracker\app\build\intermediates\pre-dexed\debug\classes_a7d197815dd807d9b0447eb32d13c4b74d025c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joy\.android\build-cache\1b117ea5565347c9724dd4f6adcd5fc0e4f1a24d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\murach\android2\book_apps\ch18_RunTracker\app\build\intermediates\pre-dexed\debug\classes_0d1e1a0b7f9e18706c0444c94f4cb12c1ee3e630.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joy\.android\build-cache\3d803149e61b8c5b6b8c5e433d7373e398254396\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\murach\android2\book_apps\ch18_RunTracker\app\build\intermediates\pre-dexed\debug\classes_e3a6caccc2668a09d4b5d19f105d20247a149dc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joy\.android\build-cache\a5393dee494768bf1e2d9517e4f21bba8383bf01\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\murach\android2\book_apps\ch18_RunTracker\app\build\intermediates\pre-dexed\debug\classes_ee3da53aa8ce6605f549c86e79e7016f84dcadee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joy\.android\build-cache\e9a59a4f7250aaa61c8a5d337dd81b50390846fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\murach\android2\book_apps\ch18_RunTracker\app\build\intermediates\pre-dexed\debug\classes_a39b5f9a02405c941137af68c6921100405bbd7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joy\.android\build-cache\ee81ad4a076a2c9026a6a3e69c2ea8e28d9d9699\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\murach\android2\book_apps\ch18_RunTracker\app\build\intermediates\pre-dexed\debug\classes_b03e43db5356bedce8e69dfc0a389921472a957d.jar" />
+    </item>
+
+</items>
